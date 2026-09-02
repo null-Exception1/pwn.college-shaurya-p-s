@@ -20,8 +20,8 @@ pwn.college{YZaYrX7K3u2_ex4edL2CP7cAkmF.QX4YjM1wSO2EzNwIzW}
 ```
 
 ## Concepts Learnt
-- Concept 1
-- Concept 2
+- how to run a command in linux
+- how to add sys args
 
 ## References
-- Add any references you used while solving the challenge
+- i would like to thank my parents for raising me

@@ -1,19 +1,22 @@
-# Challenge Name
->Challenge Description 
+# Hello Hackers
+>Simple Linux Commands
 
 ## Solve:
-- Explain your thought process behind solving
-- Scripts/Bash should be added using backticks like this
+hello so the first command is pretty simple
+```bash
+hello
 ```
 
-Put Code/Bash here
+second command adds a system argument like so
 
-
+```bash
+hello hackers
 ```
 
 ## Flag
 ```
-put{flag_here}
+pwn.college{owpcpkIy1Csv6sfASD3-4-YOnyE.QX3YjM1wSO2EzNwIzW}
+pwn.college{YZaYrX7K3u2_ex4edL2CP7cAkmF.QX4YjM1wSO2EzNwIzW}
 ```
 
 ## Concepts Learnt
